@@ -1,2 +1,4 @@
 # RxRetrofitDemo
-Retrofit
+
+Rxjava+Retrofit 简单使用
+
